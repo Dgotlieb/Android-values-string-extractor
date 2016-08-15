@@ -32,7 +32,7 @@ Extract your strings from your Android project, translate them, and get them bac
 5. Click Merge & Export XML
 
 # Result:
-![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/result.png)
+![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/results.png)
 
 
 #License
