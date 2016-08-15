@@ -14,24 +14,24 @@ Extract your strings from your Android project, translate them, and get them bac
 
 # steps:
 
-  1. Copy & Paste your Strings from XML into a TXT file (inside values folder of your project).
+A. Copy & Paste your Strings from XML into a TXT file (inside values folder of your project).
 
 ![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/strings_file.png)
 
-  2. Choose the TXT file to extract the strings from and press Extract & Save. 
+ B. Choose the TXT file to extract the strings from and press Extract & Save. 
 
 ![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/main.png)
 ![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/extracted.png)
 
-  3. Translate your words (with a good friend or Google translate).
+C. Translate your words (with a good friend or Google translate).
 
-  4. Once done, choose the translted TXT file and the file to apply translation in the "Merge" screen:
+D. Once done, choose the translted TXT file and the file to apply translation in the "Merge" screen:
 
 ![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/merge.png)
 
-  5. Click Merge & Export XML
+E. Click Merge & Export XML
 
-  # Result:
+# Result:
 ![ScreenShot](https://raw.github.com/Dgotlieb/Android-values-string-extractor/master/results.png)
 
 
